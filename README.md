@@ -1,5 +1,5 @@
 ### OLÁ! EU SOU O FABRICIO 👋
-[![!Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fabriciosousa.__/
+[![!Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fabriciosousa.__/)
 
 ![Fabricio GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriciosousa221&show_icons=true&theme=dracula)
 
